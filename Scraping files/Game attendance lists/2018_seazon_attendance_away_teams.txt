@@ -1,0 +1,372 @@
+Mečislav Solnyškin [startas]
+Simas Baltuonis [startas]
+Justinas Petkus [startas]
+Karolis Žudys [startas]
+Gintautas Barkauskas [startas]
+Vytautas Rimas [startas]
+Justas Janušauskas [startas]
+Nedas Suokas [startas]
+Vytaras Šukys [startas]
+Artūras Mikaila [startas]
+Romanas Burakovas [startas]
+Atsarginiai žaidėjai [startas]
+Aleksej Šipulia
+Arnas Vinciūnas
+Širvydas Sperskas
+Mintaras Balnys
+Benediktas Dirsė
+Vaidotas Kazlauskas
+Dominykas Stragys
+Tadas Olbikas
+# 1 #
+Igoris Jakovlevas [startas]
+Kęstutis Maželis [startas]
+Mantas Marcinkevičius [startas]
+Arminas Levickas [startas]
+Gediminas Paberžis [startas]
+Karolis Eidukonis [startas]
+Ernest Bublevič [startas]
+Marius Kazlauskas [startas]
+Modestas Bajoriūnas [startas]
+Gražvydas Mikulėnas [startas]
+Karolis Strolys [startas]
+Atsarginiai žaidėjai [startas]
+Tomas Marcinkevičius
+Donatas Šumyla
+Mindaugas Kuras
+Dmitrijus Kirjackis
+Saulius Vaiginas
+Pavel Sorokin
+Tomas Strimaitis
+Rytis Davidovičius
+Dariuš Jankovskij
+# 2 #
+Egidijus Žagaras [startas]
+Ignas Špakauskas [startas]
+Saulius Jankauskas [startas]
+Tautvydas Valkavičius [startas]
+Andrius Jankauskas [startas]
+Linas Naujanis [startas]
+Aurimas Pukevičius [startas]
+Egidijus Brazinskas [startas]
+Marijus Pukevičius [startas]
+Lukas Tatarūnas [startas]
+Deividas Šadurskas [startas]
+Atsarginiai žaidėjai [startas]
+Ernestas Jusevičius
+Jokūbas Petkevičius
+Gabrielius Kupčiūnas
+# 3 #
+Rolandas Šarapajevas [startas]
+Gerdas Aleksa [startas]
+Aurimas Radavičius [startas]
+Vytas Galeckas [startas]
+Pavelas Pelakauskas [startas]
+Karolis Gečas [startas]
+Piotr Bevz [startas]
+Giedrius Šablinskas [startas]
+Kristijonas Gedgaudas [startas]
+Gediminas Skrockas [startas]
+Deivydas Venckus [startas]
+Atsarginiai žaidėjai [startas]
+Kęstutis Rainys
+Anton Zuj
+Vytenis Čukauskas (dubleris)
+Domantas Savičius
+# 4 #
+Piotr Truselevič [startas]
+Vilius Juozėnas [startas]
+Pavelas Šarynskis [startas]
+Marius Rimša [startas]
+Martynas Rimašius [startas]
+Tomaš Korkut [startas]
+Daniel Bardovskij [startas]
+Jurij Račko [startas]
+Miroslavas Kodz [startas]
+Vilius Jurgis Stakutis [startas]
+Valdemar Juchnevič [startas]
+Atsarginiai žaidėjai [startas]
+Pranas Janušauskas
+Valdemaras Stefanovič
+Andrej Šarynski
+# 5 #
+Justas Macidulskas [startas]
+Ernestas Karsten [startas]
+Aurimas Baubkus [startas]
+Paulius Lekarevičius [startas]
+Vytautas Žičius [startas]
+Ignas Griškonis [startas]
+Kiril Abaškin [startas]
+Artūras Bubokas [startas]
+Mykolas Antušas [startas]
+Domas Verbušaitis [startas]
+Alvinas Dūdėnas [startas]
+# 6 #
+Titas Vitkauskas [startas]
+Danny Boy de Bruijn [startas]
+Saimonas Vitkauskas [startas]
+Povilas Miliauskas [startas]
+Vydmantas Kuzmickas [startas]
+Darius Lukoševičius [startas]
+Vilius Paulauskas [startas]
+Erikas Milašauskas [startas]
+Simas Mizera [startas]
+Lev Son [startas]
+Simas Kartočius [startas]
+Atsarginiai žaidėjai [startas]
+Rolandas Radzevičius
+Egidijus Vitkauskas
+# 7 #
+Tadas Jacinavičius [startas]
+Aurimas Baubkus [startas]
+Darius Šimanel [startas]
+Paulius Lekarevičius [startas]
+Vytautas Žičius [startas]
+Donatas Stakauskas [startas]
+Almantas Tamulionis [startas]
+Arminas Mosteika [startas]
+Mykolas Antušas [startas]
+Valdemar Šaveiko [startas]
+Alvinas Dūdėnas [startas]
+# 8 #
+Evaldas Rukas [startas]
+Tadas Jacinavičius [startas]
+Paulius Lekarevičius [startas]
+Vytautas Žičius [startas]
+Laurynas Juknys [startas]
+Kiril Abaškin [startas]
+Almantas Tamulionis [startas]
+Artūras Bubokas [startas]
+Arminas Mosteika [startas]
+Mykolas Antušas [startas]
+Valdemar Šaveiko [startas]
+Atsarginiai žaidėjai [startas]
+Darius Baltiejus Jr
+Donatas Stakauskas
+Alvinas Dūdėnas
+# 9 #
+Ignas Griškonis [startas]
+Evaldas Rukas [startas]
+Tadas Jacinavičius [startas]
+Darius Šimanel [startas]
+Vytautas Žičius [startas]
+Donatas Stakauskas [startas]
+Kiril Abaškin [startas]
+Artūras Bubokas [startas]
+Arminas Mosteika [startas]
+Valdemar Šaveiko [startas]
+Alvinas Dūdėnas [startas]
+Atsarginiai žaidėjai [startas]
+Ernestas Karsten
+# 10 #
+Mindaugas Ragauskas [startas]
+Saulius Gecevičius [startas]
+Gediminas Sinkevičius [startas]
+Domantas Lekys [startas]
+Julius Norkus [startas]
+Tomas Mikalauskas [startas]
+Paulius Baradinskas [startas]
+Egidijus Aleksandras Osetrovas [startas]
+Dovydas Pačkauskas [startas]
+Augustas Trinkūnas [startas]
+Aurimas Tamaliūnas [startas]
+Atsarginiai žaidėjai [startas]
+Deividas Čereška
+Aurimas Derliūnas
+Erikas Tamaliūnas
+Gafari Segun Yaya
+Daumantas Kriaučiūnas
+# 11 #
+Ignas Griškonis [startas]
+Justas Macidulskas [startas]
+Tadas Jacinavičius [startas]
+Aurimas Baubkus [startas]
+Darius Šimanel [startas]
+Paulius Lekarevičius [startas]
+Matas Juodelis [startas]
+Vytautas Žičius [startas]
+Almantas Tamulionis [startas]
+Valdemar Šaveiko [startas]
+Alvinas Dūdėnas [startas]
+Atsarginiai žaidėjai [startas]
+Evaldas Rukas
+Ernestas Karsten
+Donatas Stakauskas
+Arminas Mosteika
+Mykolas Antušas
+# 12 #
+Ignas Griškonis [startas]
+Justas Macidulskas [startas]
+Aurimas Baubkus [startas]
+Paulius Lekarevičius [startas]
+Matas Juodelis [startas]
+Vytautas Žičius [startas]
+Almantas Tamulionis [startas]
+Artūras Bubokas [startas]
+Mykolas Antušas [startas]
+Valdemar Šaveiko [startas]
+Alvinas Dūdėnas [startas]
+Atsarginiai žaidėjai [startas]
+Tadas Jacinavičius
+Ernestas Karsten
+Darius Šimanel
+Aurimas Andrulis
+Donatas Stakauskas
+Arnas Juozaitis
+# 13 #
+Ignas Griškonis [startas]
+Justas Macidulskas [startas]
+Tadas Jacinavičius [startas]
+Ernestas Karsten [startas]
+Aurimas Baubkus [startas]
+Darius Šimanel [startas]
+Aurimas Andrulis [startas]
+Vytautas Žičius [startas]
+Donatas Stakauskas [startas]
+Arminas Mosteika [startas]
+Mykolas Antušas [startas]
+# 14 #
+Ignas Griškonis [startas]
+Evaldas Rukas [startas]
+Tadas Jacinavičius [startas]
+Ernestas Karsten [startas]
+Mindaugas Baranauskas [startas]
+Vytautas Žičius [startas]
+Donatas Stakauskas [startas]
+Arminas Mosteika [startas]
+Domas Verbušaitis [startas]
+Valdemar Šaveiko [startas]
+Alvinas Dūdėnas [startas]
+Atsarginiai žaidėjai [startas]
+Aurimas Baubkus
+Gediminas Repšys
+# 15 #
+Evaldas Rukas [startas]
+Tadas Jacinavičius [startas]
+Ernestas Karsten [startas]
+Paulius Lekarevičius [startas]
+Aurimas Andrulis [startas]
+Vytautas Žičius [startas]
+Donatas Stakauskas [startas]
+Žygimantas Juknys [startas]
+Artūras Bubokas [startas]
+Valdemar Šaveiko [startas]
+Alvinas Dūdėnas [startas]
+Atsarginiai žaidėjai [startas]
+Darius Šimanel
+Gediminas Repšys
+Arminas Mosteika
+# 16 #
+Tomaš Labul [startas]
+Ovidijus Skaržauskas [startas]
+Andžejus Romeiko [startas]
+Ignas Šapola [startas]
+Mindaugas Pajuodis [startas]
+Mantas Jarmalavičius [startas]
+Mindaugas Mikulskis [startas]
+Aleksandr Lebedev [startas]
+Marius Linkevičius [startas]
+Donatas Zykus [startas]
+Elvis Daraškevičius [startas]
+Atsarginiai žaidėjai [startas]
+Arijus Skaržauskas
+Dainius Kryžanauskas
+Marijus Rimas
+Petras Lukošius
+Marius Ambotas
+Paulius Sakalis
+# 17 #
+Evaldas Rukas [startas]
+Tadas Jacinavičius [startas]
+Aurimas Baubkus [startas]
+Paulius Lekarevičius [startas]
+Tomas Statkevičius [startas]
+Aurimas Andrulis [startas]
+Vytautas Žičius [startas]
+Laurynas Juknys [startas]
+Almantas Tamulionis [startas]
+Valdemar Šaveiko [startas]
+Alvinas Dūdėnas [startas]
+Atsarginiai žaidėjai [startas]
+Ernestas Karsten
+Donatas Stakauskas
+Ignas Griškonis
+Gediminas Repšys
+Artūras Bubokas
+# 18 #
+# 19 #
+Tomas Dudėnas [startas]
+Artūras Rasimavičius [startas]
+Nerijus Remeika [startas]
+Dainius Tuškevičius [startas]
+Mindaugas Morkūnas [startas]
+Karolis Džiovalas [startas]
+Igoris Krasinas [startas]
+Žydrūnas Keblas [startas]
+Giedrius Širvinskas [startas]
+Matas Želvys [startas]
+Laurynas Liausas [startas]
+Atsarginiai žaidėjai [startas]
+Žygimantas Motiejūnas
+Deividas Varžgalys
+# 20 #
+Lukas Rutkauskas [startas]
+Arnoldas Gerasimovas [startas]
+Žygimantas Grinevičius [startas]
+Tomas Čeliauskas [startas]
+Mindaugas Kasparas [startas]
+Mindaugas Bičkovas [startas]
+Audrius Plytnikas [startas]
+Aringas Streckis [startas]
+Deividas Marcinkevičius [startas]
+Benas Buzevičius [startas]
+Audrius Labanauskas [startas]
+Atsarginiai žaidėjai [startas]
+Vytautas Zemleckas
+Vytautas Giedra
+Andrius Buzevičius
+Erikas Grigaitis
+Artūras Armonas
+Mindaugas Broga
+# 21 #
+Evaldas Rukas [startas]
+Tadas Jacinavičius [startas]
+Ernestas Karsten [startas]
+Aurimas Baubkus [startas]
+Paulius Lekarevičius [startas]
+Matas Juodelis [startas]
+Aurimas Andrulis [startas]
+Vytautas Žičius [startas]
+Ignas Griškonis [startas]
+Kiril Abaškin [startas]
+Artūras Bubokas [startas]
+Atsarginiai žaidėjai [startas]
+Darius Baltiejus Jr
+Donatas Stakauskas
+Laurynas Juknys
+Žygimantas Juknys
+Arminas Mosteika
+# 22 #
+Audrys Paulauskas (dubleris) [startas]
+Povilas Sadauskas [startas]
+Modestas Petrauskas [startas]
+Tadeuš Dediulia [startas]
+Justinas Baltrimavičius [startas]
+Laimonas Stumbras [startas]
+Audrius Bukovskis [startas]
+Eduard Grudinskij [startas]
+Giedrius Lekandra [startas]
+Igor Kozlov [startas]
+Danielius Vaitkus [startas]
+Atsarginiai žaidėjai [startas]
+Tomas Žiaugra
+Viktor Kozlov (dubleris)
+Grigorij Kisel
+Andrius Švagždys
+Arnoldas Jurys
+Marijus Grybas
+Renatas Giriūnas
+Dmitrij Raksa
+Aivaras Grabliauskas
+Algirdas Pranckūnas
+# 23 #
