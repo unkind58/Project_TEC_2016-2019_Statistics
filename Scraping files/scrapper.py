@@ -36,7 +36,7 @@ def rungtynes():
                     f.write(table_data + ' [startas]' + '\n')
                 else:
                     f.write(table_data + '\n')
-        with open('Scrapping_text', "a+", encoding="utf-8") as f:
+        with open('Scrapping_text.txt', "a+", encoding="utf-8") as f:
             f.write('# ' + str(counter_games) + ' #' + '\n')
         counter_games += 1
         driver.back()
