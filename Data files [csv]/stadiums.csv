@@ -1,17 +1,17 @@
-﻿Stadium,Address
-Senvagės stadionas," Širvintų g. 80, Vilnius, Lithuania"
-Fabijoniškių VFM stadionas," P. Žadeikos g. 2, Vilnius, Lithuania"
-Ukmergės centrinis stadionas,"Gruodžio 17-osios g. 52, Ukmergė, Lithuania"
-Kaišiadorių centrinis stadionas,"Gedimino g.118, Kaišiadorys, Lithuania"
-Naujosios Vilnios stadionas,"Pergalės g. 34A, Vilnius, Lithuania"
-Fanų stadionas,"Linkmenų g. 8, Vilnius, Lithuania"
-Panerio stadionas," Bukčių g. 8a, Vilnius, Lithuania"
-LFF stadionas,"Stadiono g. 2, Vilnius, Lithuania"
-Nemenčinės stadionas,"Neries g. 29, Nemenčinė, Lithuania"
-Pabradės stadionas,"Vilniaus g. 20a, Pabradė, Lithuania"
-Elektrėnų SM stadionas,"Rungos g. 18A, Elektrėnai, Lithuania"
-Žiežmarių stadionas,"Sodų 10, Žiežmariai, Lithuania"
-Dilgynės stadionas,"Užusienio g. 19, Vilnius, Lithuania"
-Širvintų stadionas,"Vilniaus g. 69, Širvintos 19121, Lithuania"
-Kalvelių stadionas," Mokyklos g. 8, Kalveliai, Lithuania"
-Trakų (naujas) stadionas,"Birutės 19A, Trakai, Lithuania"
+﻿Stadium,Address,Lat,Long
+Senvagės stadionas,"Širvintų g. 80, Vilnius, Lithuania",54.711832,25.280244
+Fabijoniškių VFM stadionas,"P. Žadeikos g. 2, Vilnius, Lithuania",54.732413,25.239282
+Ukmergės centrinis stadionas,"Gruodžio 17-osios g. 52, Ukmergė, Lithuania",55.250576,24.786006
+Kaišiadorių centrinis stadionas,"Gedimino g.118, Kaišiadorys, Lithuania",54.856227,24.438132
+Naujosios Vilnios stadionas,"Pergalės g. 34A, Vilnius, Lithuania",54.684804,25.413873
+Fanų stadionas,"Linkmenų g. 8, Vilnius, Lithuania",54.702878,25.269054
+Panerio stadionas,"Bukčių g. 8a, Vilnius, Lithuania",54.66458,25.212714
+LFF stadionas,"Stadiono g. 2, Vilnius, Lithuania",54.668516,25.294715
+Nemenčinės stadionas,"Neries g. 29, Nemenčinė, Lithuania",54.840872,25.476927
+Pabradės stadionas,"Vilniaus g. 20a, Pabradė, Lithuania",54.981306,25.769617
+Elektrėnų SM stadionas,"Rungos g. 18A, Elektrėnai, Lithuania",54.781985,24.65685
+Žiežmarių stadionas,"Sodų 10, Žiežmariai, Lithuania",54.810658,24.445882
+Dilgynės stadionas,"Užusienio g. 19, Vilnius, Lithuania",54.634146,25.245027
+Širvintų stadionas,"Vilniaus g. 69, Širvintos 19121, Lithuania",55.037884,24.960402
+Kalvelių stadionas,"Mokyklos g. 8, Kalveliai, Lithuania",54.634642,25.691137
+Trakų (naujas) stadionas,"Birutės 19A, Trakai, Lithuania",54.639879,24.937218
