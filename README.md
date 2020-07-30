@@ -1,5 +1,3 @@
-
-
 # FK TEC statistics in 2016-2019
 This project includes 7 graphs (with 1 additional folium map) about FK TEC participation in Sunday Football League in seasons 2016-2019.
 
@@ -12,7 +10,6 @@ This project includes 7 graphs (with 1 additional folium map) about FK TEC parti
 * Scatter diagram with regression line showing the ratio of the games that TOP30 FK TEC players started on the substitution and the matches played by them in the "starting 11";
 * Boxplot diagram showing FK TEC substitutions quantity for each month in seasons 2016-2019;
 * Folium map with all 16 stadiums locations where FK TEC played in seasons 2016-2019.
-
 ## How to run ?
 `app.ipynb`
 
