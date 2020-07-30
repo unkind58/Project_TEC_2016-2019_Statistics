@@ -14,7 +14,7 @@ This project includes 7 graphs (with 1 additional folium map) about FK TEC parti
 * Folium map with all 16 stadiums locations where FK TEC played in seasons 2016-2019.
 
 ## How to run ?
-`app.ipynb` or `app.html`
+`app.ipynb`
 
 ## Acknowledgments
 Tribe of AI
