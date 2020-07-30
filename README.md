@@ -14,7 +14,7 @@ This project includes 7 graphs (with 1 additional folium map) about FK TEC parti
 `app.ipynb`
 
 ## Acknowledgments
-Tribe of 
+Tribe of AI
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
