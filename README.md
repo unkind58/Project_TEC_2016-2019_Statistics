@@ -20,3 +20,6 @@ Tribe of AI
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Render `app.ipynb` via nbviewer 
+https://nbviewer.jupyter.org/github/unkind58/Project_TEC_2016-2019_Statistics/blob/master/app.ipynb
